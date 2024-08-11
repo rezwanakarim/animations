@@ -11,11 +11,9 @@ body , html{
     align-items: center;
     overflow: hidden;
 }
-
 *{
     box-sizing: border-box ;
 }
-
 .matrix{
     width: 100vw;
     height: 100vh;

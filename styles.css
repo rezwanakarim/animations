@@ -29,6 +29,7 @@ h1 {
     padding: 15px 30px;
     border-radius: 25px;
     font-size: 1.2rem;
+    font-weight: bolder;
     transition: background-color 0.3s ease, transform 0.3s ease;
     margin-bottom: 10px;
 }
